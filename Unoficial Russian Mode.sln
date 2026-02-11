@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unoficial Russian Mode", "Unoficial Russian Mode\Unoficial Russian Mode.csproj", "{C83039EE-717B-47DC-B36C-06EDB5508D8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C83039EE-717B-47DC-B36C-06EDB5508D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C83039EE-717B-47DC-B36C-06EDB5508D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C83039EE-717B-47DC-B36C-06EDB5508D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C83039EE-717B-47DC-B36C-06EDB5508D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {995E3BF2-7CBF-4204-A71A-FD54EB7F0643}
+	EndGlobalSection
+EndGlobal
