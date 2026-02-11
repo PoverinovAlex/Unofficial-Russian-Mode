@@ -1,1 +1,1 @@
-# Unoficial Russian Mode
+# Unofficial Russian Mode
